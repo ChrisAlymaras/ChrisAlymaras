@@ -7,14 +7,18 @@ Currently focused on:
 - Building a portfolio showcasing my programming projects for recruiters (see repositories)
 - Preparing for entry-level developer roles to contribute as a member of a professional team
 
-### 🦸 React Hero App
-The project I am currently working on is a realistic web application built with **React**, fetching data from the **Marvel Comics API**.  
+### 🦸 Pokedex App ## 🔗 Live Demo [Pokedex App on Netlify](https://pokedexappchrisalym.netlify.app/)
+The project I am currently working on is a realistic web application built with **React**, fetching data from the **Pokedex API**.  
 This project delivers a dynamic website experience where users can:
-- 🔍 Search for specific heroes
-- 🗂️ Apply filters and browse by categories
-- ⭐ Add heroes to favourites
+- 🔍 Search for specific pokemons
 - 🛒 Interact with the interface in a way that feels similar to a **shopping website**, with smooth navigation and user‑friendly design
+In progress :
+- 🗂️ Apply filters and browse pokemons by categories
+- ⭐ Add pokemons to favourites
 
+Have some music fun with another favourite project I recently made:
+## 🔗 Live Demo [React Piano on Netlify](https://livepianochrisalym.netlify.app/)
+  
 😄 Fun fact: *If the code doesn't bother you, don’t bother it.*
 
 ---
