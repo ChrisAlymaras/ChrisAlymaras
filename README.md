@@ -12,6 +12,7 @@ The project I am currently working on is a realistic web application built with 
 This project delivers a dynamic website experience where users can:
 - 🔍 Search for specific pokemons
 - 🛒 Interact with the interface in a way that feels similar to a **shopping website**, with smooth navigation and user‑friendly design
+
 In progress :
 - 🗂️ Apply filters and browse pokemons by categories
 - ⭐ Add pokemons to favourites
