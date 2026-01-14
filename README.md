@@ -9,7 +9,7 @@ Currently focused on:
 
 ---
 
-## 🦸 Pokedex - Interactive Pokemon Explorer ## 🔗 Live Demo [Pokedex App on Netlify](https://pokedexappchrisalym.netlify.app/)
+## 🦸 Pokedex - Interactive Pokemon Explorer 🔗 Live Demo [Pokedex App on Netlify](https://pokedexappchrisalym.netlify.app/)
 Pokedex is a web application built with **React**, fetching data from the **Pokedex API**. It uses dynamic color mapping based on Pokemon types to ensure smooth UI transitions, delivering a playful yet stractured experience.
 Futures:
 - 🔍 Search for specific pokemons by their name
@@ -22,7 +22,7 @@ In progress :
 - ⭐ Add pokemons to favourites
 ---
 
-## ⛅ Weather App - Real Time Weather Dashboard ## 🔗 Live Demo [Weather App on Netlify](https://weatherappchrisalym.netlify.app/)
+## ⛅ Weather App - Real Time Weather Dashboard 🔗 Live Demo [Weather App on Netlify](https://weatherappchrisalym.netlify.app/)
 Weather App is the latest web project I built using **React** and the **OpenWeather API**. The app offers city / state search delivering current weather conditions, 5-day forecast, and favourites system using LocalStorage.
 Futures:
 - 🎯 OpenWeather API integration for real-time weather data
@@ -31,7 +31,7 @@ Futures:
 - 📉 Scrollable weather cards for forecasting
 - ❤️ Favourites section for quick accessibility
 
-## 🎵 React Piano — Interactive Musical Keyboard ## 🔗 Live Demo [React Piano on Netlify](https://livepianochrisalym.netlify.app/)
+## 🎵 React Piano — Interactive Musical Keyboard 🔗 Live Demo [React Piano on Netlify](https://livepianochrisalym.netlify.app/)
 Another funny project I made is **React** Piano that simulates a real piano keyboard. User can interact through PC keyboard and play some notes.
 Futures:
 - 🎹 Interactive piano keys
