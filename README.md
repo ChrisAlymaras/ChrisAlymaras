@@ -9,23 +9,35 @@ Currently focused on:
 
 ---
 
-### 🦸 Pokedex App ## 🔗 Live Demo [Pokedex App on Netlify](https://pokedexappchrisalym.netlify.app/)
-The project I am currently working on is a realistic web application built with **React**, fetching data from the **Pokedex API**.  
-This project delivers a dynamic website experience where users can:
-- 🔍 Search for specific pokemons
-- 🛒 Interact with the interface in a way that feels similar to a **shopping website**, with smooth navigation and user‑friendly design
+## 🦸 Pokedex - Interactive Pokemon Explorer ## 🔗 Live Demo [Pokedex App on Netlify](https://pokedexappchrisalym.netlify.app/)
+Pokedex is a web application built with **React**, fetching data from the **Pokedex API**. It uses dynamic color mapping based on Pokemon types to ensure smooth UI transitions, delivering a playful yet stractured experience.
+Futures:
+- 🔍 Search for specific pokemons by their name
+- 🐾 Fetch all pokemons and explore in a scrollable way 
+- 📈 Check each pokemon stats through interactive tabs
+- 💥 Request the evolution chain through images
 
 In progress :
 - 🗂️ Apply filters and browse pokemons by categories
 - ⭐ Add pokemons to favourites
-
 ---
 
-Have some music fun with another favourite project I recently made:
-## 🔗 Live Demo [React Piano on Netlify](https://livepianochrisalym.netlify.app/)
-  
-😄 Fun fact: *If the code doesn't bother you, don’t bother it.*
+⛅ **Weather App - Real Time Weather Dashboard** **Live Demo [Weather App on Netlify](https://weatherappchrisalym.netlify.app/)**
+Weather App is the latest web project I built using **React** and the **OpenWeather API**. The app offers city / state search delivering current weather conditions, 5-day forecast, and favourites system using LocalStorage.
+Futures:
+- 🎯 OpenWeather API integration for real-time weather data
+- 📌 Caching layer to reduce API calls and ensure better performance 
+- ❄️ Dynamic weather based backgrounds
+- 📉 Scrollable weather cards for forecasting
+- ❤️ Favourites section for quick accessibility
 
+🎵 **React Piano — Interactive Musical Keyboard** 🔗 **Live Demo [React Piano on Netlify](https://livepianochrisalym.netlify.app/)**
+Another funny project I made is **React** Piano that simulates a real piano keyboard. User can interact through PC keyboard and play some notes.
+Futures:
+- 🎹 Interactive piano keys
+- 🔊 Volume handler
+
+😄 Fun fact: *If the code doesn't bother you, don’t bother it.*
 ---
 
 🛠️ Tech Stack
